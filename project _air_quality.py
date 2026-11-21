@@ -1,7 +1,6 @@
-# Nainika Singh 
+# Nainika Singh ṇ
 # 2026B01010340
-# git - https://github.com/NainikaSingh0340/Python_project_HCL
-
+# git -https://github.com/NainikaSingh0340/AIR-QUALITY-INSIGHTS-DASHBOARD
 import pandas as pd
 import numpy as np
 
